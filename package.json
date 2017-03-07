@@ -1,0 +1,22 @@
+{
+  "name": "family-business-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeschuyler/family-business-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeschuyler/family-business-sql/issues"
+  },
+  "homepage": "https://github.com/lukeschuyler/family-business-sql#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
